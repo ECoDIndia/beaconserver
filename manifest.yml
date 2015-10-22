@@ -1,0 +1,8 @@
+host: beaconpush
+disk: 512M
+name: beaconpush
+command: node app.js
+path: .
+domain: mybluemix.net
+memory: 128M
+instances: 1

@@ -1,0 +1,8 @@
+host: ibmbeaconmessaging
+disk: 1024M
+name: IBMBeaconMessaging
+command: node app.js
+path: .
+domain: mybluemix.net
+memory: 128M
+instances: 1
